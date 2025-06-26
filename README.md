@@ -1,5 +1,5 @@
 # BitmapFonts
-Font previews have been moved to [Previews.md](Previews.md) to avoid GitHub throttling.
+Font previews have been moved to [previews.md](previews.md) to avoid GitHub throttling.
 
 This is my collection of bitmap fonts pulled from various demoscene archives over the years. No metadata and I do not claim rights to any of these works, I just thought after finding a few of these sites had died that I should make it available.
 
